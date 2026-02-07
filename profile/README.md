@@ -59,8 +59,8 @@ Wir sind ein SAP-Beratungs- und Entwicklungsunternehmen aus **Lichtenfels, Deuts
 
 | | Name | Rolle |
 |---|---|---|
-| <img src="https://github.com/murriiii.png" width="40" /> | **Murat Ince** ([@murriiii](https://github.com/murriiii)) | Gruender & Lead Developer |
-| <img src="https://github.com/Sevil-Ince.png" width="40" /> | **Sevil Ince** ([@Sevil-Ince](https://github.com/Sevil-Ince)) | Co-Gruenderin & Frontend Developer |
+| <img src="https://github.com/murriiii.png" width="40" /> | **Murat Ince** ([@murriiii](https://github.com/murriiii)) | Gruender & Developer |
+| <img src="https://github.com/Sevil-Ince.png" width="40" /> | **Sevil Ince** ([@Sevil-Ince](https://github.com/Sevil-Ince)) | Gruenderin & Developer |
 
 ---
 
